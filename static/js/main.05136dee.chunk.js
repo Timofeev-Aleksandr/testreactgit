@@ -1,0 +1,2 @@
+(this.webpackJsonptestreactgit=this.webpackJsonptestreactgit||[]).push([[0],{10:function(t,e,c){"use strict";c.r(e);c(1);var s=c(3),n=c.n(s),r=(c(8),c(0));var i=function(){return Object(r.jsxs)("div",{className:"App",children:[Object(r.jsx)("h2",{children:"APP"}),Object(r.jsx)("h1",{children:"testreactgit"})]})};n.a.render(Object(r.jsx)(i,{}),document.getElementById("root"))},8:function(t,e,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.05136dee.chunk.js.map

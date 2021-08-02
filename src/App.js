@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h2>APP</h2>
       <h1>testreactgit</h1>
-      cvb
+      <p>qwerty</p>
     </div>
   );
 }
